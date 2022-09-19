@@ -1,0 +1,18 @@
+.vendidos__titulo{
+    color: var(--laranja);
+    background-color: var(--branco);
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 1em 0;
+}
+.imagem__avaliacao{
+    padding-top: 1em;
+}
+.titulo__vendidos{
+    padding: 1em 0;
+}
+.texto__vendidos{
+    padding: 1em 0;
+}
