@@ -12,7 +12,7 @@
 <h2>:bookmark_tabs: Descrição</h2>
 <p>O projeto AluraBooks foi desenvolvido através do conceito Mobile First, que consiste na criação de projetos web e sites em dispositivos móveis e depois é realizado  todas as adaptações para desktop e outros dispositivos.
 Ficou constatado que o desenvolvimento por meio do Mobile First é extremamente importante para manter os sites mais limpos, organizados e
-funcionais, gerando uma usabilidade mais eficas para os usuários.
+funcionais, gerando uma usabilidade mais eficaz para os usuários.
 
 Neste projeto foi finalizado as seguintes ações:
 - Realização do Header (cabeçalho) com menu hambúrguer funcional;
