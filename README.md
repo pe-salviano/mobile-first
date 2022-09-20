@@ -22,7 +22,7 @@ Neste projeto foi finalizado as seguintes ações:
 - Criação de um rodapé funcional para vários tamanho de tela;
 - Animação do título do banner utilizado JavaScript;
 - Responsividade para vários tamanhos de tela utilizando Media queries e começando o projeto pelo menor tamanho(Mobile).</p>
-<p><a href="href="https://pe-salviano.github.io/mobile-first/" target="_blank"> Link de acesso ao projeto </a></p>
+<p><a href="https://pe-salviano.github.io/mobile-first/" target="_blank"> Link de acesso ao projeto </a></p>
 
 ## Layout 428px
 ![Web 1](https://github.com/pe-salviano/mobile-first/blob/main/img/layout.428px.png)
