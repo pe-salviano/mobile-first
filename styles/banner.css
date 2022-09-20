@@ -9,6 +9,22 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 27px;
+
+}
+.banner__titulo::after{
+    content: '|';
+    margin-left: 5px;
+    opacity: 2;
+    animation: pisca 1s infinite;
+}
+@keyframes pisca {
+    0%, 100%{
+        opacity: 1;
+
+    }
+    50%{
+        opacity: 0;
+    }
 }
 
 .banner__texto{
@@ -37,6 +53,8 @@
     background: url(../img/Pesquisa.svg) no-repeat;
     background-position: 1em;
 }
+
+
 
 @media screen and (min-width:1024px) {
     .banner__titulo{
