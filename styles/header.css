@@ -61,21 +61,10 @@
     text-transform: uppercase;
 }
 
-.container__botao{
+.container__botao,.container__titulo, .opcoes, .container__texto {
     display: none;
 }
 
-.container__titulo{
-    display: none;
-}
-
-.opcoes{
-    display: none;
-}
-
-.container__texto{
-    display: none;
-}
 
 @media screen and (min-width: 1024px) {
     .cabecalho{
@@ -110,11 +99,7 @@
         color: var(--preto);
     }
         
-    .container__imagem-transparente{
-        display: none;
-    }
-
-    .cabecalho__menu-hamburguer{
+    .container__imagem-transparente, .cabecalho__menu-hamburguer{
         display: none;
     }
 
