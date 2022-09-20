@@ -1,4 +1,4 @@
-<h1>➡<a href="https://pe-salviano.github.io/mobile-first/" target="_blank"> Alura Store </a>⬅</h1>
+<h1>➡<a href="https://pe-salviano.github.io/mobile-first/" target="_blank"> AluraBooks</a>⬅</h1>
 
 <h2>⚔ Tecnologias Utilizadas</h2>
 
@@ -10,9 +10,18 @@
 </div>
 
 <h2>:bookmark_tabs: Descrição</h2>
-<p>Esse projeto foi desenvolvido através do curso de CSS Grid Layout da Alura, Por meio do CSS Grid Layout conseguimos estabelecer o posicionamento de
-cada sessão do site.Para a construção da parte de "destaques" foi definido um grid com diversas colunas e linhas e define a posição de elemento por elemento.
-Para concluir e deixar o projeto responsivo foi utilizado o media screen, o site se tornou funcionou em telas maiores ou menores, o tornando, além disso, mobile friendly.</p>
+<p>O projeto AluraBooks foi desenvolvido através do conceito Mobile First, que consiste na criação de projetos web e sites em dispositivos móveis e depois é realizado  todas as adaptações para desktop e outros dispositivos.
+Ficou constatado que o desenvolvimento por meio do Mobile First é extremamente importante para manter os sites mais limpos, organizados e
+funcionais, gerando uma usabilidade mais eficas para os usuários.
+
+Neste projeto foi finalizado as seguintes ações:
+- Realização do Header (cabeçalho) com menu hambúrguer funcional;
+- Banner com imagem de fundo no input de pesquisa;
+- Carousel com o uso de uma biblioteca "SwiperJS";
+- Card de informações utilizando o flexbox;
+- Criação de um rodapé funcional para vários tamanho de tela;
+- Animação do título do banner utilizado JavaScript;
+- Responsividade para vários tamanhos de tela utilizando Media queries e começando o projeto pelo menor tamanho(Mobile).</p>
 <p><a href="https://pe-salviano.github.io/css-grid/" target="_blank"> Link de acesso ao projeto </a></p>
 
 ## Layout 428px
