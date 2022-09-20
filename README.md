@@ -1,5 +1,4 @@
-<h1>➡<a href="https://pe-salviano.github.io/css-grid/" target="_blank"> Alura Store </a>⬅</h1>
-
+<h1>➡<a href="https://pe-salviano.github.io/mobile-first/" target="_blank"> Alura Store </a>⬅</h1>
 
 <h2>⚔ Tecnologias Utilizadas</h2>
 
@@ -16,21 +15,15 @@ cada sessão do site.Para a construção da parte de "destaques" foi definido um
 Para concluir e deixar o projeto responsivo foi utilizado o media screen, o site se tornou funcionou em telas maiores ou menores, o tornando, além disso, mobile friendly.</p>
 <p><a href="https://pe-salviano.github.io/css-grid/" target="_blank"> Link de acesso ao projeto </a></p>
 
-## Layout 1728px
-![Mobile 1](https://github.com/pe-salviano/mobile-first/blob/main/img/layout.1728px.png)
-
-
-
-
-## Layout 1024px
-![Web 1](https://github.com/pe-salviano/mobile-first/blob/main/img/layout.1024px.png)
-
-
 ## Layout 428px
 ![Web 1](https://github.com/pe-salviano/mobile-first/blob/main/img/layout.428px.png)
 ![Web 1](https://github.com/pe-salviano/mobile-first/blob/main/img/layout.428px-2.png)
 
+## Layout 1024px
+![Web 1](https://github.com/pe-salviano/mobile-first/blob/main/img/layout.1024px.png)
 
+## Layout 1728px
+![Mobile 1](https://github.com/pe-salviano/mobile-first/blob/main/img/layout.1728px.png)
 
 <div style="display: inline_block">
   
