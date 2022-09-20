@@ -78,7 +78,7 @@
         font-size: 26px;
     }
     .swiper-pagination{
-        padding: 1em 0 2em 0;
+        margin: 2em 0 3em 0;
 
     }
 
@@ -98,4 +98,38 @@
         width: 50%;
         margin: 3em auto;
     }
+}
+
+@media screen and (min-width: 1728px) {
+    .carrossel__container{
+        display: flex;
+        margin: 0 20vw 3em 20vw;
+        align-items: center;
+    }
+    .swiper-pagination{
+        margin:0;
+
+    }
+    .swiper{
+        width: 60%;
+        
+    }
+
+    .descricao__titulo{
+        font-size: 32px;
+    }
+
+    .descricao__texto{
+        font-size: 16px;
+    }
+
+    .descrição{
+        margin-right: 2em;
+    }
+
+    .card{
+        width: 60%;
+        margin-left: 3em;
+    }
+
 }
